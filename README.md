@@ -10,7 +10,7 @@ Participant in the [GMTK Game Jam 2023](https://itch.io/jam/gmtk-2023/rate/21541
 
 Programmed a keyboard on a screen for my Arduino from scratch, got over [800 upvotes on r/Arduino](https://www.reddit.com/r/arduino/comments/10bftev/i_made_a_keyboard_for_my_lcd_screen_took_3_days/)
 
-Designed, programmed, and deployed my own website ([mrdiamond.ml](https://mrdiamond.ml/))
+Designed, programmed, and deployed my own website ([https://mrdiamond.ml/](https://mrdiamond.netlify.app/))
 
 Designed, programmed, and deployed a website for one of my school's clubs (can not link for privacy)
 

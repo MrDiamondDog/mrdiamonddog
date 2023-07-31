@@ -16,15 +16,15 @@ Designed, programmed, and deployed a website for one of my school's clubs (can n
 
 Way too many unfinished projects
 
-## Experience
-- Typescript/Javascript
-- HTML/CSS
-- TSX/JSX
-- [Wasp](https://wasp-lang.dev/)
-- Java
-- Kotlin
-- Git
-- Unity/C#
+## Tech Stack
+### Frontend
+[![Tech Stack Icons](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
+
+### Backend
+[![Tech Stack Icons](https://skillicons.dev/icons?i=ts,express)](https://skillicons.dev)
+
+### Everything Else
+[![Tech Stack Icons](https://skillicons.dev/icons?i=java,kotlin,cs,unity,cpp)](https://skillicons.dev)
 
 ## Stats
 

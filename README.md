@@ -1,5 +1,4 @@
-I make stuff sometimes
-
+![Metrics](./github-metrics.svg)
 # Mini Resume
 
 Developer for [TeraSkies](https://www.tiktok.com/@teraskies)
